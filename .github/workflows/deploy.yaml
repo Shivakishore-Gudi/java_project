@@ -146,4 +146,4 @@ jobs:
             fi
             sudo systemctl status tomcat10 --no-pager
             
-            echo "=== Deployment Completed Successfully ==="
+            echo "=== Deployment Completed Successfully ==="   #Kishore
